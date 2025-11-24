@@ -1,3 +1,7 @@
+> **Note:**
+> Ceci est une version intermédiaire (V1) soumise pour feedback.
+> L'architecture technique, les tests et le packaging sont complets.
+
 # Banking Transactions API
 
 API REST développée avec FastAPI pour l'exposition et l'analyse de données bancaires.
